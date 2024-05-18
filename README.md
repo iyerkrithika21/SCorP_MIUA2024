@@ -1,5 +1,5 @@
-# SCorP_MIUA2024
-SCorP: Statistics-Informed Dense Correspondence Prediction Directly from Unsegmented Medical Images
+# SCorP MIUA2024
+[SCorP: Statistics-Informed Dense Correspondence Prediction Directly from Unsegmented Medical Images](https://arxiv.org/abs/2404.17967)
 
 
 To run training and inference 
