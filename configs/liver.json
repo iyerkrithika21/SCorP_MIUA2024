@@ -1,6 +1,6 @@
 {
 		"sample_num_points":5000, 
-		"data_dir":"/usr/sci/projects/Img2SSM/DATA/ImageFlankData/Liver/world/",
+		"data_dir":"/Liver/",
 		"scale_mode":null, 
 		"train_batch_size":6,
 		"val_batch_size":1, 
