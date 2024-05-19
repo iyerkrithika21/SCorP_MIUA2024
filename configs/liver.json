@@ -21,8 +21,8 @@
 		"tag":"Liver",
 		"mesh_extension":"ply",
 		"image_extension":"nrrd",
-		"noise_level": 0.01,
-		"k":27,
+		"noise_level": 0.1,
+		"k":25,
 		"template_type":"mean.particles",
 		"shuffle_points": 0,
 		"chamfer_dist":"L2",
@@ -37,5 +37,5 @@
 		"mean_particles": "mean.particles",
 		"image_zslice":1,
 		"train_size":1,
-		"max_gdist":20
+		"max_gdist":15
 }
